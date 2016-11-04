@@ -56,3 +56,6 @@ export EDITOR='vim'
 
 # PAGER
 export PAGER=less
+
+# NO SHARED HISTORY
+setopt nosharehistory 
