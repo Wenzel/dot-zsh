@@ -6,7 +6,7 @@ dotfiles for `zsh`
 
     git clone --recursive https://github.com/Wenzel/dot-zsh .zsh
     mkdir -p $HOME/.zsh/oh-my-zsh/custom/themes
-    wget https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme/blob/master/powerline.zsh-theme -O $HOME/.zsh/oh-my-zsh/custom/themes/
+    wget https://raw.githubusercontent.com/jeremyFreeAgent/oh-my-zsh-powerline-theme/master/powerline.zsh-theme -O $HOME/.zsh/oh-my-zsh/custom/themes/powerline.zsh-theme
     ln -s .zsh/zshrc .zshrc
 
 
