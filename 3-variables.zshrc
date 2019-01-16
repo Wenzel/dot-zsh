@@ -58,4 +58,6 @@ export EDITOR='vim'
 export PAGER=less
 
 # NO SHARED HISTORY
-setopt nosharehistory 
+setopt nosharehistory
+
+export PATH="$HOME/.local/bin:$PATH"
